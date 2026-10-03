@@ -1,0 +1,1 @@
+Download the .html and double click it and there you go a robotics app with some weather options and sliders so that someone can experiment and play a bit with robots simulations. Robotics is the new school of magic, but hey don't say it to old scool magicians:) enjoy!
